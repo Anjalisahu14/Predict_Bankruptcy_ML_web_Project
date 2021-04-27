@@ -22,10 +22,6 @@ EDA, insights of data, feature engineering, feature selection, analysis of diffe
 
 on flask as integrating platform on pycharm as tool for integration
 
-# Video Demo link for explanation :-
-
-https://www.linkedin.com/posts/saket-nandan-758117106_machinelearning-datascience-dataanalytics-activity-6719835624259518464-3h34
-
 ### Data Description :-
 
 The dataset is about bankruptcy prediction of Polish companies. The data was collected from Emerging Markets
